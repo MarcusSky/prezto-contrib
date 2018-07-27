@@ -3,7 +3,7 @@
 	url = https://github.com/chauncey-garrett/zsh-prompt-garrett.git
 [submodule "contrib-prompt/external/lean"]
 	path = contrib-prompt/external/lean
-	url = https://github.com/miekg/lean.git
+	url = git@github.com:stepdc/lean.git
 [submodule "contrib-prompt/external/spaceship"]
 	path = contrib-prompt/external/spaceship
 	url = https://github.com/denysdovhan/spaceship-zsh-theme.git
